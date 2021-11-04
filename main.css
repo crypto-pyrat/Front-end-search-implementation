@@ -154,3 +154,14 @@ html {
     font-size: 1.4rem;
 }
 
+.results-logo {
+    grid-row: 1;
+    grid-column: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results-logo img {
+    width: 50px;
+}
